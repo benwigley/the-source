@@ -12,3 +12,5 @@ resources.aps
 *.opendb
 installer-errors.log
 *.pkg
+*.sublime-workspace
+*.sublime-project
